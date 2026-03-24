@@ -5,7 +5,7 @@ seguem abaixo.
 
 <a href="https://github.com/raffoliveira/prompts-recipe-to-create-a-ebook/blob/main/output/ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
