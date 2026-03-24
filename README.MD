@@ -20,11 +20,11 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema de python. O ebook é do nicho de programação e o subnicho é python. O titulo deve ser épico, curto e tenha uma temática da série The Breaking. Me dê uma lista de 5 opções                                                       |
 | conteúdo | Agora faça um texto para este ebook com foco em python, listando os principais conceitos e comandos com exemplos em código.
-{REGRAS}
-> Explique sempre de forma simples e objetiva
-> Deixe o texto enxuto
-> Sempre apresente exemplos de código em contextos reais
-> Sempre use um titulo sugestivo
+|          | {REGRAS} |
+|          | > Explique sempre de forma simples e objetiva |
+|          | > Deixe o texto enxut |
+|          | > Sempre apresente exemplos de código em contextos reais |
+|          | > Sempre use um titulo sugestivo |
 
 
 Midjourney：
